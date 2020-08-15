@@ -60,6 +60,16 @@ def game_hash
     :away => {
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", Purple],
-      :players => 
+      :players => [ {
+        :player_name => "Alan Anderson",
+        :number =>,
+        :shoe => ,
+        :points => ,
+        :rebounds => ,
+        :assists => ,
+        :steals => ,
+        :blocks => ,
+        :slam_dunks => 
+      },]
     }
   }
