@@ -1,4 +1,15 @@
 # Write your code here!
 
-def build_hash
-  hash = 
+def game_hash
+  hash = {
+    :home => {
+      :team_name => ,
+      :colors =>,
+      :players =>
+    },
+    :away => {
+      :team_name => ,
+      :colors =>,
+      :players =>
+    }
+  }
