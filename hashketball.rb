@@ -61,8 +61,8 @@ def game_hash
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", Purple],
       :players => [ {
-        :player_name => "Alan Anderson",
-        :number =>,
+        :player_name => "",
+        :number => ,
         :shoe => ,
         :points => ,
         :rebounds => ,
